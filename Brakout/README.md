@@ -1,7 +1,7 @@
 # 🧱 Breakout - Jogo Clássico Recriado
 
 ## 🌐 Select Language / Selecione o Idioma
-[🇺🇸 English](#eng---breakout---classic-arcade-game) | [🇧🇷 Português](#pt---breakout---jogo-clássico-recriado)
+[🇺🇸 English](#eng---breakout---classic-arcade-game) | [🇧🇷 Português](#port---breakout---jogo-clássico-recriado)
 
 ---
 
@@ -59,7 +59,7 @@ This project is licensed under **MIT**.
 
 ---
 
-# PT Breakout - Jogo Clássico Recriado
+# PORT - Breakout - Jogo Clássico Recriado
 
 ## 📖 Resumo
 **Breakout** é uma recriação do clássico jogo de arcade, onde o objetivo é destruir todos os blocos controlando uma plataforma que rebate a bola.
