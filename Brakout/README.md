@@ -1,7 +1,7 @@
 # 🧱 Breakout - Jogo Clássico Recriado
 
 ## 🌐 Select Language / Selecione o Idioma
-[🇺🇸 English](#english) | [🇧🇷 Português](#-br-breakout---jogo-clássico-recriado)
+[🇺🇸 English](#us-breakout---classic-arcade-game) | [🇧🇷 Português](#br-breakout---jogo-clássico-recriado)
 
 ---
 
