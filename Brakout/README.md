@@ -1,7 +1,7 @@
 # 🧱 Breakout - Jogo Clássico Recriado
 
 ## 🌐 Select Language / Selecione o Idioma
-[🇺🇸 English](#-us-breakout---classic-arcade-game) | [🇧🇷 Português](#-br-breakout---jogo-clássico-recriado)
+[🇺🇸 English](#english) | [🇧🇷 Português](#-br-breakout---jogo-clássico-recriado)
 
 ---
 
@@ -51,6 +51,8 @@
 Developed by **Ryan Gomes**.
 
 ---
+
+# English
 
 ## 📄 License
 This project is licensed under **MIT**.
