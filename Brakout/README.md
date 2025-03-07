@@ -35,9 +35,7 @@
 ---
 
 ## 📂 How to Play
-1. Download the repository:
-2. Open the project in **GameMaker Studio 2**.
-3. Compile and play!
+- Download the EXE folder or the .zip file:
 
 ---
 
@@ -89,7 +87,7 @@ This project is licensed under **MIT**.
 ---
 
 ## 📂 Como Jogar
-1. Baixe a EXE ou o arquivo .zip:
+- Baixe a pasta EXE ou o arquivo .zip:
 
 ---
 
