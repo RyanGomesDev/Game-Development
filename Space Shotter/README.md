@@ -40,8 +40,8 @@
 ---
 
 ## 📸 Preview
-![Title Screen](screenshot1.png)
-![Gameplay](screenshot2.png)
+![Title Screen](assets/screenshot1.png)
+![Gameplay](assets/screenshot2.png)
 
 ---
 
@@ -90,8 +90,8 @@ This project is licensed under **MIT**.
 ---
 
 ## 📸 Imagens
-![Tela Inicial](screenshot1.png)
-![Gameplay](screenshot2.png)
+![Tela Inicial](assets/screenshot1.png)
+![Gameplay](assets/screenshot2.png)
 
 ---
 
@@ -102,3 +102,4 @@ Desenvolvido por **Ryan Gomes**.
 
 ## 📄 Licença
 Este projeto está sob a licença **MIT**.
+
